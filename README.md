@@ -12,4 +12,7 @@
         - Adding more features such as a section where the user can be tested - check on learning.
 
 
+## How to run
+** Make sure to have all the packages installed - can be found in requirement.txt"
+To run this project on terminal type in 'python run.py'
 

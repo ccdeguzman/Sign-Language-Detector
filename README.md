@@ -13,6 +13,6 @@
 
 
 ## How to run
-Make sure to have all the packages installed - can be found in requirement.txt 
-To run this project on terminal type in 'python run.py'
+    Make sure to have all the packages installed - can be found in requirement.txt 
+    To run this project on terminal type in 'python run.py'
 

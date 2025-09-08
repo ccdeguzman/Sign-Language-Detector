@@ -1,7 +1,6 @@
 """
     Name: Christian de Guzman
     Personal Project: American Sign Language Detector
-    Description: ...
 """
 
 import cv2

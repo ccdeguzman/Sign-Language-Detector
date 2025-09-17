@@ -1,11 +1,13 @@
 # Sign-Language-Detector
-    
-    A personal project
+    A real-time American Sign Language Detector using Python, OpenCV, TensorFlow, and Google Teachable Machine  
+    to classify hand gestures and provide live predictions via webcam.
 
+    
+## A personal project
     I wanted to teach myelf the basic of American Sign Language by learning its alphabet so I implemented a project that would help me do exactly that.
     I took 7,200 images, 300 per letter across the 24 ASL alphabet, and uploaded them to Google's Teachable Machine, creating a machine learning model.
 
-    Next Steps:
+## Next Steps:
         - Adding detection for letters J and Z since they require hand motions and the current project only allows still hand gestures to be detected.
             - Adding this feature could lead to recognizing actions in sign language 
         - More diversed still images. I think it would help with detecting the hand gestures more accurately.
